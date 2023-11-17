@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protonic&label=Profile%20views&color=0e75b6&style=flat" alt="protonic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protonic" alt="protonic" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=protonc&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
