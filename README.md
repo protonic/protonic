@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [https://rapidfix.online/](https://rapidfix.online/)
 
-- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Axure Graph Queries**
+- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure Graph Queries**
 
 - 📫 How to reach me **pritamkhedekarr@gmail.com**
 
