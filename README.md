@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/protonic](https://github.com/protonic)
 
-- 📝 I regularly write articles on [https://techwanderers.in](https://techwanderers.in)
+- 📝 I regularly write articles on [https://rapidfix.online/](https://rapidfix.online/)
 
 - 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation**
 
