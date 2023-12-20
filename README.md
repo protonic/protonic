@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
-- 🔭 I’m currently working on Blockchain [ctrlO](https://github.com/protonic/go-ethereum)
+- 🔭 I’m currently working on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Javascript**
 
-- 👯 I’m looking to collaborate on Blockchain [ctrlO](https://github.com/protonic/go-ethereum)
+- 👯 I’m looking to collaborate on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
 
-- 🤝 I’m looking for help with [BHARAT](https://github.com/protonic/bharat)
+- 🤝 I’m looking for help with new lean blockchain project [BHARAT](https://github.com/protonic/bharat)
 
 - 👨‍💻 All of my projects are available at [https://github.com/protonic](https://github.com/protonic)
 
