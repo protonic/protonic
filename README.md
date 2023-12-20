@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
-- 🔭 I’m currently working on Blockchain [BHARAT](https://github.com/protonic/bharat)
+- 🔭 I’m currently working on Blockchain [CONTROLO](https://github.com/protonic/bharat)
 
 - 🌱 I’m currently learning **Blockchain, Solidity, Javascript**
 
