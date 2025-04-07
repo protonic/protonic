@@ -8,23 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
-- 🔭 I’m currently working on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
-
-- 🌱 I’m currently learning **Blockchain, Solidity, Javascript**
-
-- 👯 I’m looking to collaborate on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
-
-- 🤝 I’m looking for help with new lean blockchain project [BHARAT](https://github.com/protonic/bharat)
+- 👯 I’m actively collaborating on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
 
 - 👨‍💻 All of my projects are available at [https://github.com/protonic](https://github.com/protonic)
 
-- 📝 I regularly write articles on [https://rapidfix.online/](https://rapidfix.online/)
-
-- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure Graph Queries**
+- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure KQL Queries**
 
 - 📫 How to reach me **pritamkhedekarr@gmail.com**
-
-- ⚡ Fun fact **I keep learning but use knowledge for myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
