@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pritam Khedekar</h1>
-<h3 align="center">A passionate IT Engineer from India (Bharat)</h3>
+<h1 align="center">Hi 👋, I'm Pritam Khedekar (PK)</h1>
+<h3 align="center">Systems Engineer · Cloud, Infrastructure Security, Infrastructure Engineering Automation & AI · Seattle, WA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protonic&label=Profile%20views&color=0e75b6&style=flat" alt="protonic" /> </p>
 
@@ -8,11 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
-- 👯 I’m actively collaborating on privacy tool [TIP Tool](https://github.com/protonic/TempIdentityPrivacy-TIP-Tool)
+- 💼 Systems Engineer at **Capgemini America** (client: **Starbucks**) — infrastructure automation & retail POS engineering
+
+- 🧭 15+ years in infrastructure & systems engineering — previously Capgemini consultant for Cole Haan, Citrix SME for McDonald's, and WINTEL Team Lead at Cole Haan
+
+- 🎯 Currently growing into **AI Security & Forward Deployed Engineering** and leveling up my **Python**
+
+- 🏅 Certifications: **AWS Solutions Architect – Associate, CCSK, PSM I, ITIL**
+
+- 🧑‍⚖️ Open to **peer-review and awards-judging** roles in retail tech, AI, cloud & cybersecurity
+
+- 👯 I'm actively collaborating on privacy tool [TIP Tool](https://github.com/protonic/TempIdentityPrivacy-TIP-Tool)
 
 - 👨‍💻 All of my projects are available at [https://github.com/protonic](https://github.com/protonic)
 
-- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure KQL Queries, Agentic AI, AI enebled automation, MCPs**
+- ✍️ I write about retail & eCommerce tech at [pritamkhedekar.com](https://pritamkhedekar.com)
+
+- 💬 Ask me about **AWS & Azure, PowerShell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure KQL Queries, Agentic AI, AI-enabled automation, MCPs**
 
 - 📫 Communicate on **pritamkhedekarr@gmail.com**
 
