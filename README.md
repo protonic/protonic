@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/khedekarrpritam" target="blank"><img src="https://img.shields.io/twitter/follow/khedekarrpritam?logo=twitter&style=for-the-badge" alt="khedekarrpritam" /></a> </p>
 
-- 👯 I’m actively collaborating on Blockchain [ctrlO](https://github.com/controlo-chain/csc)
+- 👯 I’m actively collaborating on privacy tool [TIP Tool](https://github.com/protonic/TempIdentityPrivacy-TIP-Tool)
 
 - 👨‍💻 All of my projects are available at [https://github.com/protonic](https://github.com/protonic)
 
-- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure KQL Queries**
+- 💬 Ask me about **Powershell, Windows Server, Linux & Virtualisation, Citrix CLI, Azure KQL Queries, Agentic AI, AI enebled automation, MCPs**
 
-- 📫 How to reach me **pritamkhedekarr@gmail.com**
+- 📫 Communicate on **pritamkhedekarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
